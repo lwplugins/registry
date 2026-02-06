@@ -52,5 +52,14 @@
 		"constant": "LW_COOKIE_VERSION",
 		"settings_page": "lw-cookie",
 		"github": "https://github.com/lwplugins/lw-cookie"
+	},
+	"lw-enable": {
+		"name": "LW Enable",
+		"description": "Enable WordPress features: SVG uploads and more.",
+		"icon": "dashicons-yes-alt",
+		"icon_color": "#43a047",
+		"constant": "LW_ENABLE_VERSION",
+		"settings_page": "lw-enable",
+		"github": "https://github.com/lwplugins/lw-enable"
 	}
 }
