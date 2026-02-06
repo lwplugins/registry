@@ -1,0 +1,56 @@
+{
+	"lw-seo": {
+		"name": "LW SEO",
+		"description": "Essential SEO features without the bloat.",
+		"icon": "dashicons-search",
+		"icon_color": "#2271b1",
+		"constant": "LW_SEO_VERSION",
+		"settings_page": "lw-seo",
+		"github": "https://github.com/lwplugins/lw-seo"
+	},
+	"lw-disable": {
+		"name": "LW Disable",
+		"description": "Disable WordPress features like comments.",
+		"icon": "dashicons-dismiss",
+		"icon_color": "#d63638",
+		"constant": "LW_DISABLE_VERSION",
+		"settings_page": "lw-disable",
+		"github": "https://github.com/lwplugins/lw-disable"
+	},
+	"lw-site-manager": {
+		"name": "LW Site Manager",
+		"description": "Site maintenance via AI/REST using Abilities API.",
+		"icon": "dashicons-admin-tools",
+		"icon_color": "#135e96",
+		"constant": "LW_SITE_MANAGER_VERSION",
+		"settings_page": "lw-site-manager",
+		"github": "https://github.com/lwplugins/lw-site-manager"
+	},
+	"lw-memberships": {
+		"name": "LW Memberships",
+		"description": "Lightweight membership system with WooCommerce.",
+		"icon": "dashicons-groups",
+		"icon_color": "#7b5e57",
+		"constant": "LW_MEMBERSHIPS_VERSION",
+		"settings_page": "lw-memberships",
+		"github": "https://github.com/lwplugins/lw-memberships"
+	},
+	"lw-lms": {
+		"name": "LW LMS",
+		"description": "Courses, lessons, and progress tracking.",
+		"icon": "dashicons-welcome-learn-more",
+		"icon_color": "#4a9c5d",
+		"constant": "LW_LMS_VERSION",
+		"settings_page": "lw-lms",
+		"github": "https://github.com/lwplugins/lw-lms"
+	},
+	"lw-cookie": {
+		"name": "LW Cookie",
+		"description": "GDPR-compliant cookie consent banner.",
+		"icon": "dashicons-shield",
+		"icon_color": "#00a32a",
+		"constant": "LW_COOKIE_VERSION",
+		"settings_page": "lw-cookie",
+		"github": "https://github.com/lwplugins/lw-cookie"
+	}
+}
