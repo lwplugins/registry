@@ -68,5 +68,15 @@
 		"settings_page": "lw-enable",
 		"github": "https://github.com/lwplugins/lw-enable",
 		"status": "beta"
+	},
+	"lw-translate": {
+		"name": "LW Translate",
+		"description": "Manage WordPress translations from community repositories.",
+		"icon": "dashicons-translation",
+		"icon_color": "#0073aa",
+		"constant": "LW_TRANSLATE_VERSION",
+		"settings_page": "lw-translate",
+		"github": "https://github.com/lwplugins/lw-translate",
+		"status": "beta"
 	}
 }
