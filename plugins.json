@@ -29,15 +29,15 @@
 		"github": "https://github.com/lwplugins/lw-site-manager",
 		"status": "beta"
 	},
-	"lw-memberships": {
-		"name": "LW Memberships",
-		"description": "Lightweight membership system with WooCommerce.",
-		"icon": "dashicons-groups",
-		"icon_color": "#7b5e57",
-		"constant": "LW_MEMBERSHIPS_VERSION",
-		"settings_page": "lw-memberships",
-		"github": "https://github.com/lwplugins/lw-memberships",
-		"status": "alpha"
+	"lw-zenadmin": {
+		"name": "LW ZenAdmin",
+		"description": "Clean up your admin — notices sidebar & widget manager.",
+		"icon": "dashicons-admin-settings",
+		"icon_color": "#8e44ad",
+		"constant": "LW_ZENADMIN_VERSION",
+		"settings_page": "lw-zenadmin",
+		"github": "https://github.com/lwplugins/lw-zenadmin",
+		"status": "stable"
 	},
 	"lw-lms": {
 		"name": "LW LMS",
