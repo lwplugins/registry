@@ -86,5 +86,16 @@
 		"settings_page": "lw-translate",
 		"github": "https://github.com/lwplugins/lw-translate",
 		"status": "beta"
+	},
+	"lw-pixel": {
+		"name": "LW Pixel",
+		"description": "Tracking pixels: Meta, GA4, Ads, GTM, TikTok, Pinterest, Bing, Reddit, Snapchat, X.",
+		"icon": "dashicons-marker",
+		"icon_color": "#2b65f6",
+		"icon_svg": "https://raw.githubusercontent.com/lwplugins/registry/main/icons/lw-pixel.svg",
+		"constant": "LW_PIXEL_VERSION",
+		"settings_page": "lw-pixel",
+		"github": "https://github.com/lwplugins/lw-pixel",
+		"status": "beta"
 	}
 }
