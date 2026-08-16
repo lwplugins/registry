@@ -97,5 +97,16 @@
 		"settings_page": "lw-pixel",
 		"github": "https://github.com/lwplugins/lw-pixel",
 		"status": "beta"
+	},
+	"lw-img": {
+		"name": "LW Img",
+		"description": "Lightweight image optimization — auto-convert uploads to WebP via HelloImg.",
+		"icon": "dashicons-format-image",
+		"icon_color": "#00a876",
+		"icon_svg": "https://raw.githubusercontent.com/lwplugins/registry/main/icons/lw-img.svg",
+		"constant": "LW_IMG_VERSION",
+		"settings_page": "lw-img",
+		"github": "https://github.com/lwplugins/lw-img",
+		"status": "beta"
 	}
 }
