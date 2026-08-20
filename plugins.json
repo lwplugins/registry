@@ -28,7 +28,7 @@
 		"icon_color": "#135e96",
 		"icon_svg": "https://raw.githubusercontent.com/lwplugins/registry/main/icons/lw-site-manager.svg",
 		"constant": "LW_SITE_MANAGER_VERSION",
-		"settings_page": "lw-site-manager",
+		"settings_page": "lw-site-manager-mcp",
 		"github": "https://github.com/lwplugins/lw-site-manager",
 		"status": "beta"
 	},
