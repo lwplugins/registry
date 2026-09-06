@@ -108,5 +108,16 @@
 		"settings_page": "lw-img",
 		"github": "https://github.com/lwplugins/lw-img",
 		"status": "beta"
+	},
+	"lw-firewall": {
+		"name": "LW Firewall",
+		"description": "Rate limiting, bot blocking, IP bans and security headers.",
+		"icon": "dashicons-shield-alt",
+		"icon_color": "#e67e22",
+		"icon_svg": "https://raw.githubusercontent.com/lwplugins/registry/main/icons/lw-firewall.svg",
+		"constant": "LW_FIREWALL_VERSION",
+		"settings_page": "lw-firewall",
+		"github": "https://github.com/lwplugins/lw-firewall",
+		"status": "beta"
 	}
 }
