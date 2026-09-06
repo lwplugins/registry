@@ -8,7 +8,7 @@
 		"constant": "LW_SEO_VERSION",
 		"settings_page": "lw-seo",
 		"github": "https://github.com/lwplugins/lw-seo",
-		"status": "beta"
+		"status": "stable"
 	},
 	"lw-disable": {
 		"name": "LW Disable",
@@ -19,7 +19,7 @@
 		"constant": "LW_DISABLE_VERSION",
 		"settings_page": "lw-disable",
 		"github": "https://github.com/lwplugins/lw-disable",
-		"status": "beta"
+		"status": "stable"
 	},
 	"lw-site-manager": {
 		"name": "LW Site Manager",
@@ -30,7 +30,7 @@
 		"constant": "LW_SITE_MANAGER_VERSION",
 		"settings_page": "lw-site-manager-mcp",
 		"github": "https://github.com/lwplugins/lw-site-manager",
-		"status": "beta"
+		"status": "stable"
 	},
 	"lw-zenadmin": {
 		"name": "LW ZenAdmin",
@@ -74,7 +74,7 @@
 		"constant": "LW_ENABLE_VERSION",
 		"settings_page": "lw-enable",
 		"github": "https://github.com/lwplugins/lw-enable",
-		"status": "beta"
+		"status": "stable"
 	},
 	"lw-translate": {
 		"name": "LW Translate",
@@ -96,7 +96,7 @@
 		"constant": "LW_PIXEL_VERSION",
 		"settings_page": "lw-pixel",
 		"github": "https://github.com/lwplugins/lw-pixel",
-		"status": "beta"
+		"status": "stable"
 	},
 	"lw-img": {
 		"name": "LW Img",
@@ -118,6 +118,6 @@
 		"constant": "LW_FIREWALL_VERSION",
 		"settings_page": "lw-firewall",
 		"github": "https://github.com/lwplugins/lw-firewall",
-		"status": "beta"
+		"status": "stable"
 	}
 }
